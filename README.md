@@ -76,4 +76,4 @@ Sistema web para inventário de TI com foco em produtividade operacional.
 
 ## 🎯 Objetivo profissional
 
-Conseguir oportunidade como desenvolvedor júnior para continuar evoluindo em projetos reais, contribuindo com código limpo, visão de produto e melhoria contínua.
+Trabalho como estagiario em T.I, mas já atuo como desenvolvedor júnior, quero continuar evoluindo em projetos reais, contribuindo com código limpo, visão de produto e melhoria contínua. Em busca de oportunidades cada vez maiores!
