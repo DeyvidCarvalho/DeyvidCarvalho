@@ -7,7 +7,7 @@ Gosto de transformar problemas reais em soluções simples, úteis e com boa exp
   <a href="mailto:deyvidofc.022@gmail.com">
     <img src="https://img.shields.io/badge/Email-deyvidofc.022%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/DeyvidCarvalho">
     <img src="https://img.shields.io/badge/GitHub-DeyvidCarvalho-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
