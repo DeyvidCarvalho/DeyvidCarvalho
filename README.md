@@ -74,15 +74,6 @@ Sistema web para inventário de TI com foco em produtividade operacional.
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeyvidCarvalho&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidCarvalho&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 🎯 Objetivo profissional
 
 Conseguir oportunidade como desenvolvedor júnior para continuar evoluindo em projetos reais, contribuindo com código limpo, visão de produto e melhoria contínua.
