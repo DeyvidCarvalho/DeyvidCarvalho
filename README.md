@@ -11,7 +11,7 @@ Gosto de transformar problemas reais em soluções simples, úteis e com boa exp
     <img src="https://img.shields.io/badge/GitHub-DeyvidCarvalho-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/deyvid-carvalho-817206348">
-    <img src="https://img.shields.io/badge/LinkedIn-'deyvid-carvalho'-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-deyvidcarvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
