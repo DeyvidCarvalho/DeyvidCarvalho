@@ -8,7 +8,7 @@ Gosto de transformar problemas reais em soluções simples, úteis e com boa exp
     <img src="https://img.shields.io/badge/Email-deyvidofc.022%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DeyvidCarvalho-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -61,7 +61,7 @@ Sistema web para inventário de TI com foco em produtividade operacional.
 - Relatórios técnicos com exportação CSV
 - Banco fictício para demonstração
 
-🔗 Repositório: `https://github.com/SEU_USUARIO/flask-inventory-dashboard`
+🔗 Repositório: `https://github.com/DeyvidCarvalho/flask-inventory-dashboard`
 
 ---
 
@@ -77,8 +77,8 @@ Sistema web para inventário de TI com foco em produtividade operacional.
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DeyvidCarvalho&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidCarvalho&layout=compact&theme=transparent" />
 </p>
 
 ---
