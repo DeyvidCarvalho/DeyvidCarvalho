@@ -10,8 +10,8 @@ Gosto de transformar problemas reais em soluções simples, úteis e com boa exp
   <a href="https://github.com/DeyvidCarvalho">
     <img src="https://img.shields.io/badge/GitHub-DeyvidCarvalho-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/deyvid-carvalho-817206348">
+    <img src="https://img.shields.io/badge/LinkedIn-deyvid-carvalho-817206348-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
