@@ -34,6 +34,7 @@ Gosto de transformar problemas reais em soluções simples, úteis e com boa exp
 - Segurança de aplicações web (boas práticas)
 
 🧠 O que esses níveis representam
+
 Esses níveis foram definidos com base em projetos entregues ponta a ponta, incluindo:
 
 - API com autenticação por sessão e validações
